@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Roboto:300,400,500');
+
+
+body {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: #455A64;
+  color: #212121;
+  margin: 0px;
+}
+
+header h1 {
+  font-size: 90px;
+}
+
+header h2 {
+  font-size: 30px;
+}
+
+header {
+  border: 0px;
+  margin: 0px;
+  padding: 200px 30px 100px 30px;
+  background-color: #455A64;
+  color: #193c5c;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  display: block;
+  background:
+    url("wave.jpg") center;
+  background-size: cover;
+}
+
+div {
+  float: left;
+  background-color: white;
+  margin: 0px;
+  padding: 0.5em 6em;
+  border: 0px;
+}
+
+.page-wrapper {
+  padding: 0px;
+}
+
+.main.supporting {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+p {
+  font-size: 20px;
+  margin: 3px;
+  padding: 10px;
+  border: 0px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0px;
+  padding: 10px;
+  border: 0px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 32px;
+  margin: 0px;
+  padding: 10px;
+  border: 0px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 28px;
+  margin: 0px;
+  padding: 10px;
+  border: 0px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+button {
+  background-color: #FF9800;
+  border-style: none;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  margin: 5px;
+  padding: 15px;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+hr {
+  margin: 40px 0;
+  border: 0px;
+  border-top: 1px solid #BDBDBD;
+}
+
+footer {
+  border: 0px;
+  margin: 0px;
+  padding: 200px 30px 100px 30px;
+  background-color: #455A64;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  display: block;
+}
+
+.card {
+  float: left;
+  color: white;
+  margin: 5px;
+  padding: 17px;
+  background-color: #607D8B;
+  border-radius: 25px;
+  border: 0px;
+  border-style: groove;
+  max-width: 350px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.italics {
+  font-style: italic;
+}
